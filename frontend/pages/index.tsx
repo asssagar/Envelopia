@@ -15,7 +15,7 @@ const Home: NextPage = () => {
             <Stack spacing={4}>
               <Heading fontSize={"xl"}>Envelopia</Heading>
               <Heading fontSize={"6xl"}>
-                Send tokens to your friends and family with a digital env 💌
+                Send tokens to your friends and family with a digital red 💌
               </Heading>
               <Text fontSize={"xl"}>
                 Select from a selection of tokens to transfer to your friends and family. Write a message to go along with your token transfer. Connect your wallet to get started now!
@@ -57,7 +57,7 @@ const Home: NextPage = () => {
             <FeatureCard
               step={"03"}
               title={"Write a Message"}
-              description={"Write a message to go along with your token transfer. This is optional but it's always nice to send a message to your friends and family."}
+              description={"Write a message to go along with your token transfer inside your 💌 to give joy to your friends and family."}
             />
           </Stack>
         </Flex>

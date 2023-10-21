@@ -9,6 +9,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider 
         activeChain="avalanche-fuji"
+        clientId="580b59590754ef3d11f6af77838e1b65"
          >
       <ChakraProvider>
         <Navbar />
