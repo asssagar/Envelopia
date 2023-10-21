@@ -20,7 +20,7 @@ export default function Events() {
         "TransactionCompleted",
         {
             queryFilter: {
-                fromBlock: -7000,
+                fromBlock: -4000,
             }
         }
     );

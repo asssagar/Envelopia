@@ -16,6 +16,7 @@
     "@emotion/styled": "^11.11.0",
     "@thirdweb-dev/react": "^4.0.7",
     "@thirdweb-dev/sdk": "^3",
+    "@wormhole-foundation/wormhole-connect": "^0.1.2",
     "ethers": "^5",
     "framer-motion": "^10.12.16",
     "next": "^13",
