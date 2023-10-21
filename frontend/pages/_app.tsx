@@ -8,7 +8,8 @@ import { AvalancheFuji } from "@thirdweb-dev/chains";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider 
-        activeChain={AvalancheFuji} >
+        activeChain="avalanche-fuji"
+         >
       <ChakraProvider>
         <Navbar />
         <Component {...pageProps} />
