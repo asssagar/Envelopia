@@ -13,6 +13,12 @@ Gift More than Just Tokens - Gift Experiences! 🌐💫
 EVA Token - https://testnet.snowtrace.io/token/0x398918ff23b86b8a2cf74db2de2a3b74635336a3
 Allowance- https://testnet.snowtrace.io/tx/0xf740faefab8581c3e6cdac8f5d8a896c9c64ece276ec93cc1087c8b6d5825b0b
 Transferred- https://testnet.snowtrace.io/tx/0xf43fb02b87e6f16ccfa312bb3e836920824d88431dd762f78f754b2b45be0415
+
+## Wormhole Bridging done by user on Envelopia- https://wormholescan.io/#/tx/5/000000000000000000000000377d55a7928c046e18eebb61977e714d2a76472a/38599?network=TESTNET&view=overview
+Source Chain - https://mumbai.polygonscan.com/tx/0x71d1df5fa120d298937cb8b5e5d11239dc0587791b03ad6febc3f113204e5646
+
+![image](https://github.com/asssagar/Envelopia/assets/2885834/5f95ef4f-a9e6-425f-a75a-5f834c62dbd9)
+
 ### 📝 Description:
 
 Envelopia is not merely an application, it's a pioneering revolution in the crypto space 🚀. Custom-built to streamline token transfers on the potent Avalanche C chain, it introduces cross-chain support, seamlessly connecting with networks like Polygon Mumbai and Gorelli.
