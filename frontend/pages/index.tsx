@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <Flex flexDirection={"row"}>
           <Flex flexDirection={"column"} justifyContent={"center"} w={"60%"}>
             <Stack spacing={4}>
-              <Heading fontSize={"xl"}>Envelopia</Heading>
+              <Heading fontSize={"xl"}>Envelopia 💌</Heading>
               <Heading fontSize={"6xl"}>
                 Send tokens to your friends and family with a digital red 💌
               </Heading>
