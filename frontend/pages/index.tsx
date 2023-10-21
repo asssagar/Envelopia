@@ -15,7 +15,7 @@ const Home: NextPage = () => {
             <Stack spacing={4}>
               <Heading fontSize={"xl"}>Envelopia</Heading>
               <Heading fontSize={"6xl"}>
-                Send tokens to your friends and family with ease.
+                Send tokens to your friends and family with a digital env 💌
               </Heading>
               <Text fontSize={"xl"}>
                 Select from a selection of tokens to transfer to your friends and family. Write a message to go along with your token transfer. Connect your wallet to get started now!
