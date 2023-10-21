@@ -10,7 +10,9 @@ Gift More than Just Tokens - Gift Experiences! 🌐💫
 | Envelopia Drop Contract                  | 0x2dd235464eB6cfA07c79c0e6AFf57C7ad01DBD98          | [Explorer](https://testnet.snowtrace.io/address/0x398918fF23b86b8A2CF74Db2dE2a3B74635336a3)          |
 |
 
-
+EVA Token - https://testnet.snowtrace.io/token/0x398918ff23b86b8a2cf74db2de2a3b74635336a3
+Allowance- https://testnet.snowtrace.io/tx/0xf740faefab8581c3e6cdac8f5d8a896c9c64ece276ec93cc1087c8b6d5825b0b
+Transferred- https://testnet.snowtrace.io/tx/0xf43fb02b87e6f16ccfa312bb3e836920824d88431dd762f78f754b2b45be0415
 ### 📝 Description:
 
 Envelopia is not merely an application, it's a pioneering revolution in the crypto space 🚀. Custom-built to streamline token transfers on the potent Avalanche C chain, it introduces cross-chain support, seamlessly connecting with networks like Polygon Mumbai and Gorelli.
